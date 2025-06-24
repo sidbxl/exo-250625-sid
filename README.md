@@ -1,2 +1,1 @@
-# exo-250624-sid
-exo-250624-sid
+# Exercice 25 juin
